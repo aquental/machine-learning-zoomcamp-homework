@@ -1,2 +1,4 @@
-# machine-learning-zoomcamp-homework
-Homework for the 4 month Machine Learning Bootcamp by DataTalksClub - #course-ml-zoomcamp
+# Machine Learning ZoomCamp - Homework
+Homework for the _4-month_ [Machine Learning Bootcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) by DataTalksClub - #course-ml-zoomcamp
+
+[homework 1](homework/01-intro/homework_01.ipynb)
